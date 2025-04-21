@@ -10,4 +10,4 @@ TLDR: I Finetuned an EfficientNetV2M on the unbalanced ISIC dataset using a cust
 A more thorough description of the approach can be found in this [report](https://drive.google.com/file/d/1XffQMk59ofjgFAQvjOdnO2WwIxlYbk-y/view?usp=sharing).
 
 ## Results
-I reached a balanced accuracy of 84%, compared to the human baseline of 80% achieved by dermatologists with 10 years of experience.
+I reached a balanced accuracy of 90% on the training set and 84% on the test set, compared to the human baseline of 80% achieved by dermatologists with 10 years of experience.
