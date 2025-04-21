@@ -1,6 +1,8 @@
 ## Project Description
 The goal of this project was to classify images of skin lesions into eight different classes (Melanoma, Melanocytic nevus, Basal cell carcinoma, Actinic keratosis, Benign keratosis, Dermatofibroma, Vascular lesion, Squamous cell carcinoma) using machine learning techniques. These methods can contribute to the early detection of skin cancer through non-invasive computer-aided diagnosis (CAD) systems.
 
+<img src="ISIC.jpg" alt="isolated" width="700" />
+
 ## Dataset
 The ISIC dataset consisted of 25,331 dermoscopic images of skin lesions, along with corresponding segmentation and metadata (age, sex, and anatomical position) when available. The data was split into a training-validation set (75%) and a test set (25%).
 
